@@ -1,0 +1,8 @@
+.upper{ background-image: url(arc.png.jpg);
+height: 100vh;
+}
+ul{ float : right;
+list-style-type:none;
+}
+
+ul li { display: inline-block; }
